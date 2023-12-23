@@ -2,3 +2,12 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.listThings{
+  cursor: pointer;
+  font-size: large;
+}
+
+.strikeThrough{
+  text-decoration: line-through;
+}
